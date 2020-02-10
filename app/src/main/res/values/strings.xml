@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kalkulator Sederhana</string>
+    <string name="tambah">+</string>
+    <string name="kurang">-</string>
+    <string name="satu">1</string>
+    <string name="dua">2</string>
+    <string name="samadengan">=</string>
+    <string name="bersih">C</string>
+    <string name="tiga">3</string>
+    <string name="bagi">/</string>
+    <string name="bagi_titikDua">:</string>
+</resources>
